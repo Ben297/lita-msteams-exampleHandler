@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["bennetsetzer@gmx.de"]
   spec.description   = "test"
   spec.summary       = "test"
-  spec.homepage      = "test"
+  spec.homepage      = "https://d-velop.de"
   spec.license       = "test"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
