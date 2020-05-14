@@ -7,8 +7,9 @@ Lita.configure do |config|
   config.adapters.ms_teams.default_bot_id = 'https://smba.trafficmanager.net/emea/'
   config.adapters.ms_teams.default_bot_name = 'https://smba.trafficmanager.net/emea/'
   config.adapters.ms_teams.app_id = 'bab03fba-2cad-4589-b9b5-993559f41e20'
+  config.adapters.ms_teams.app_secret = 'jA844rhiG5DOPa?guc/xgrtO=]QBd[Ze'
+
   config.handlers.ms_teams.emulator_mode = false
-  config.handlers.ms_teams.app_secret = 'jA844rhiG5DOPa?guc/xgrtO=]QBd[Ze'
   config.handlers.ms_teams.tenant_id = 'a6ea47be-ea24-4e93-91e4-b1d244e48721'
   # The locale code for the language to use.
   # config.robot.locale = :en
